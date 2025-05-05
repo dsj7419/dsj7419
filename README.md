@@ -1,4 +1,1 @@
-![](https://raw.githubusercontent.com/dsj7419/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/dsj7419/gh-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/dsj7419/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/dsj7419/gh-stats/master/generated/languages.svg#gh-light-mode-only)
+![ProfileChatter SVG](https://raw.githubusercontent.com/dsj7419/ProfileChatter/main/dist/profile-chat.svg)
